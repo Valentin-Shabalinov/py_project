@@ -1,4 +1,6 @@
-from funcs import fold
+from funcs import fold, subtraction
 
 
 fold()
+
+subtraction()
